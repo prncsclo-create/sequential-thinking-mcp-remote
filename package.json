@@ -1,6 +1,7 @@
 {
   "name": "sequential-thinking-mcp",
   "version": "1.2.0",
+  "type": "module",
   "description": "Remote MCP Server for Sequential Thinking - A structured problem-solving tool",
   "scripts": {
     "dev": "next dev",
